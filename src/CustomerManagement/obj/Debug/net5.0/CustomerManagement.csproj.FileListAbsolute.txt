@@ -1,0 +1,16 @@
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/bin/Debug/net5.0/CustomerManagement
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/bin/Debug/net5.0/CustomerManagement.deps.json
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/bin/Debug/net5.0/CustomerManagement.runtimeconfig.json
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/bin/Debug/net5.0/CustomerManagement.runtimeconfig.dev.json
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/bin/Debug/net5.0/CustomerManagement.dll
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/bin/Debug/net5.0/ref/CustomerManagement.dll
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/bin/Debug/net5.0/CustomerManagement.pdb
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/obj/Debug/net5.0/CustomerManagement.csprojAssemblyReference.cache
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/obj/Debug/net5.0/CustomerManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/obj/Debug/net5.0/CustomerManagement.AssemblyInfoInputs.cache
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/obj/Debug/net5.0/CustomerManagement.AssemblyInfo.cs
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/obj/Debug/net5.0/CustomerManagement.csproj.CoreCompileInputs.cache
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/obj/Debug/net5.0/CustomerManagement.dll
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/obj/Debug/net5.0/ref/CustomerManagement.dll
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/obj/Debug/net5.0/CustomerManagement.pdb
+/home/anusha/C_Sharp/customermanagement/src/CustomerManagement/obj/Debug/net5.0/CustomerManagement.genruntimeconfig.cache
